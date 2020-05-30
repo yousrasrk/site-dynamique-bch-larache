@@ -3,3 +3,4 @@ partie admin :
 Gestions des évenements;
 Gestions des activités
 Qnoncer des condoléances.
+#thechnologies laravel/ boostrap
